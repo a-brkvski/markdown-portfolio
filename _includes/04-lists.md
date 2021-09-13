@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* French Fries
+* Chicken Nuggets
+* Gone Girl
+* Moby Dick 
